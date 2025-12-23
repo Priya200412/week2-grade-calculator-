@@ -1,6 +1,5 @@
 # Student Grade Calculator
 # Week 2 Project – Control Flow & Data Structures
-# Developed by: Kamala Priya
 
 def calculate_grade(avg):
     if avg >= 90:
@@ -94,3 +93,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
